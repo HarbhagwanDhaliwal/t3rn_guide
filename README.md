@@ -49,5 +49,5 @@ To claim BRN tokens for testing, connect your MetaMask wallet and use the faucet
 
 To auto-install and run the script, use the following command:
 ```bash
-wget https://raw.githubusercontent.com/HarbhagwanDhaliwal/t3rn_guide/blob/main/t3rn_executor.sh && chmod +x t3rn_executor.sh && ./t3rn_executor.sh
+wget https://raw.githubusercontent.com/HarbhagwanDhaliwal/t3rn_guide/main/t3rn_executor.sh && chmod +x t3rn_executor.sh && ./t3rn_executor.sh
 ```
