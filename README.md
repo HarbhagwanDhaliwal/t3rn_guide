@@ -67,5 +67,3 @@ You can also check your node reward dashboard by visiting the following URL and 
 [https://bridge.t1rn.io/executor/Your_Wallet_Address](https://bridge.t1rn.io/executor/Your_Wallet_Address)
 
 --- 
-
-Let me know if you need any more updates!
