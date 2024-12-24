@@ -37,7 +37,11 @@ Ensure your wallet has a balance on the following networks:
 - **ETH Sepolia Blast**
 - **Token BRN**
 
-### 3. Check Your BRN Balance
+### 3. Get BRN Token
+To claim BRN tokens for testing, connect your MetaMask wallet and use the faucet at:  
+[https://faucet.brn.t3rn.io/](https://faucet.brn.t3rn.io/)
+
+### 4. Check Your BRN Balance
 - Use the **Explorer**: [https://brn.explorer.caldera.xyz/](https://brn.explorer.caldera.xyz/)
   - Enter your address in the explorer to view your balance.
 
