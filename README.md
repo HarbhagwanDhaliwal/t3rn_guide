@@ -1,3 +1,5 @@
+---
+
 # T3rn Executor Script
 
 ### Preparation
@@ -51,3 +53,19 @@ To auto-install and run the script, use the following command:
 ```bash
 wget https://raw.githubusercontent.com/HarbhagwanDhaliwal/t3rn_guide/main/t3rn_executor.sh && chmod +x t3rn_executor.sh && ./t3rn_executor.sh
 ```
+
+---
+
+### Check Service Logs and Dashboard
+
+After running the script, you can check the logs of the service with the following command:
+```bash
+sudo journalctl -u t3rn-executor.service -f --no-hostname -o cat
+```
+
+You can also check your node reward dashboard by visiting the following URL and replacing `Your_Wallet_Address` with your actual wallet address:
+[https://bridge.t1rn.io/executor/Your_Wallet_Address](https://bridge.t1rn.io/executor/Your_Wallet_Address)
+
+--- 
+
+Let me know if you need any more updates!
