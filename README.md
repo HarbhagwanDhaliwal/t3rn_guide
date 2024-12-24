@@ -1,4 +1,3 @@
-```markdown
 # T3rn Executor Script
 
 A step-by-step guide to set up and run the T3rn Executor Script for testing across various networks.
@@ -9,7 +8,7 @@ A step-by-step guide to set up and run the T3rn Executor Script for testing acro
 
 ### 🛒 Purchase Sepolia ETH  
 You can easily purchase **ETH Sepolia** for testing using the following link:  
-🔗 [Testnet Bridge - Sepolia](https://testnetbridge.com/sepolia)  
+🔗 https://testnetbridge.com/sepolia
 > **Note:** With just **$10**, you'll receive a generous amount of ETH for testing purposes.
 
 ---
@@ -50,12 +49,12 @@ Ensure your wallet has a sufficient balance on the following networks:
 
 ### 3️⃣ Get BRN Tokens  
 Claim **BRN tokens** for testing via the faucet:  
-🌐 [BRN Token Faucet](https://faucet.brn.t3rn.io/)  
+🌐 https://faucet.brn.t3rn.io/
 > Connect your MetaMask wallet to access the faucet.
 
 ### 4️⃣ Check Your BRN Balance  
 - Visit the BRN Explorer:  
-  🌐 [BRN Explorer](https://brn.explorer.caldera.xyz/)  
+  🌐 https://brn.explorer.caldera.xyz/
 - Enter your wallet address to view your token balance.
 
 ---
