@@ -1,5 +1,4 @@
----
-
+```markdown
 # T3rn Executor Script
 
 ### Preparation
@@ -65,5 +64,4 @@ sudo journalctl -u t3rn-executor.service -f --no-hostname -o cat
 
 You can also check your node reward dashboard by visiting the following URL and replacing `Your_Wallet_Address` with your actual wallet address:
 [https://bridge.t1rn.io/executor/Your_Wallet_Address](https://bridge.t1rn.io/executor/Your_Wallet_Address)
-
---- 
+```
