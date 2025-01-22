@@ -11,6 +11,8 @@ echo "\n
 
 # Remove existing 'executor' directory if it exists
 rm -rf executor
+rm -rf t3rn_executor.sh
+rm -rf executor-linux-v0.40.0.tar.gz
 
 # Download and extract the executor binary for version v0.40.0
 curl -L -o executor-linux-v0.40.0.tar.gz \
