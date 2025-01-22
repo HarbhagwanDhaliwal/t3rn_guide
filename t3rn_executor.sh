@@ -41,6 +41,7 @@ ExecStart=/root/executor/executor/bin/executor
 Environment="NODE_ENV=testnet"
 Environment="LOG_LEVEL=debug"
 Environment="LOG_PRETTY=false"
+Environment="EXECUTOR_PROCESS_PENDING_ORDERS_FROM_API=false"
 Environment="EXECUTOR_PROCESS_ORDERS=true"
 Environment="EXECUTOR_PROCESS_CLAIMS=true"
 Environment="PRIVATE_KEY_LOCAL=$PRIVATE_KEY_LOCAL"
