@@ -12,11 +12,11 @@ echo "\n
 # Remove existing 'executor' directory if it exists
 rm -rf executor
 
-# Download and extract the executor binary
-curl -L -o executor-linux-v0.43.0.tar.gz \
-  https://github.com/t3rn/executor-release/releases/download/v0.43.0/executor-linux-v0.43.0.tar.gz && \
-tar -xzvf executor-linux-v0.43.0.tar.gz && \
-rm -f executor-linux-v0.43.0.tar.gz && \
+# Download and extract the executor binary for version v0.40.0
+curl -L -o executor-linux-v0.40.0.tar.gz \
+  https://github.com/t3rn/executor-release/releases/download/v0.40.0/executor-linux-v0.40.0.tar.gz && \
+tar -xzvf executor-linux-v0.40.0.tar.gz && \
+rm -f executor-linux-v0.40.0.tar.gz && \
 cd executor/executor/bin || exit
 
 # Prompt user for necessary configuration inputs
