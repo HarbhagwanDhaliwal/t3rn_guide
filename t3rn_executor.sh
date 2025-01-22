@@ -16,11 +16,11 @@ rm -rf executor-linux-v0.40.0.tar.gz
 rm -rf executor-linux-v0.43.0.tar.gz
 rm -rf executor-linux-v0.38.0.tar.gz
 
-# Download and extract the executor binary for version v0.38.0
-curl -L -o executor-linux-v0.38.0.tar.gz \
-  https://github.com/t3rn/executor-release/releases/download/v0.38.0/executor-linux-v0.38.0.tar.gz && \
-tar -xzvf executor-linux-v0.38.0.tar.gz && \
-rm -f executor-linux-v0.38.0.tar.gz && \
+# Download and extract the executor binary for version v0.40.0
+curl -L -o executor-linux-v0.40.0.tar.gz \
+  https://github.com/t3rn/executor-release/releases/download/v0.40.0/executor-linux-v0.40.0.tar.gz && \
+tar -xzvf executor-linux-v0.40.0.tar.gz && \
+rm -f executor-linux-v0.40.0.tar.gz && \
 cd executor/executor/bin || exit
 
 # Prompt user for necessary configuration inputs
